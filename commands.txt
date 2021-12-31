@@ -1,0 +1,1 @@
+./rabbitmqadmin -d 3 get queue=task_queue count=1000
