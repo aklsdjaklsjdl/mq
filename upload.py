@@ -2,8 +2,8 @@ import boto3
 import sys
 from boto.s3.key import Key
 
-AWS_ACCESS_KEY_ID = 'AKIAQM3DCGJZF6LD2REG'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
 BUCKET = 'webms-mp4convertedllmao'
 
 class Uploader:
